@@ -1,7 +1,7 @@
 import discord
 import asyncio
 from discord.ext import commands
-from ayarlar import *
+import ayarlar
 
 client = commands.Bot(command_prefix="!")
 
